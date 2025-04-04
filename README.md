@@ -1,6 +1,7 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
- <center>I'm FAIQA, a Pakistani Full-Stack Developer </center>
+ <h1><center>I'm FAIQA, a Pakistani Full-Stack Developer </center></h1>
+ 
 🏢 Currently focused on improving problem-solving skills<br>🎓 Graduated with a BSCS degree from Government College University Faislabad in 2024<br> 💻 Web developer since 2021 <br>
 
 
