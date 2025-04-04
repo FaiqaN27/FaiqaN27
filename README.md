@@ -1,6 +1,6 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm FAIQA, a Pakistani Full-Stack Developer 👋🏼  
+ <center>I'm FAIQA, a Pakistani Full-Stack Developer </center>
 🏢 Currently focused on improving problem-solving skills<br>🎓 Graduated with a BSCS degree from Government College University Faislabad in 2024<br> 💻 Web developer since 2021 <br>
 
 
@@ -9,7 +9,7 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiqaN27/FaiqaN27/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaiqaN27/FaiqaN27/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/FaiqaN27/FaiqaN27/output/github-snake.svg" />
 </picture>
