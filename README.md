@@ -2,7 +2,7 @@
 
 # I'm FAIQA, a Pakistani Full-Stack Developer 
  
-🏢 Currently focused on improving problem-solving skills<br>🎓 Graduated with a BSCS degree from Government College University Faislabad in 2024<br> 💻 Web developer since 2021 <br>
+🏢 Currently focused on improving problem-solving skills<br>🎓 Graduated with a BSCS degree from Government College University Faisalabad in 2024<br> 💻 Web developer since 2021 <br>
 
 
 # 💻 Tech Stack:
