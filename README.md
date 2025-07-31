@@ -43,7 +43,7 @@ I specialize in building responsive web apps using the **MERN stack**, and I'm a
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaiqaN27&theme=react&hide_border=true%22" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaiqaN27&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
