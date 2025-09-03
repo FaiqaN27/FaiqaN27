@@ -55,6 +55,8 @@ I specialize in building responsive web apps using the **MERN stack**, and I'm a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiqaN27&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=FaiqaN27&label=Profile%20Views&color=0e75b6&style=flat)
+
 ---
 
 ## 🏆 GitHub Trophy
