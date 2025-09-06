@@ -1,6 +1,6 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
-# 👋 Hi, I'm FAIQA — MERN Stack Developer from Pakistan
+# 👋 Hi, I'm Faiqa — MERN Stack Developer from Pakistan
 
 <h2 align="center">🤯 Ctrl + Z is my most trusted coding partner</h2>
 
