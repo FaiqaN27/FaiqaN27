@@ -1,4 +1,4 @@
-<img src="banner.png" alt="GitHub Banner" width="100%" />
+<img src="Profile-banner.png" alt="GitHub Banner" width="100%" />
 
 # 👋 Hi, I'm Faiqa — MERN Stack Developer from Pakistan
 
