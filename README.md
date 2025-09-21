@@ -1,19 +1,16 @@
-<img src="profile-banner.png" alt="GitHub Banner" width="100%" />
+<h1 align="center">Hello, I'm Faiqa Nadeem 👋 </h1>
 
-# 👋 Hi, I'm Faiqa — MERN STACK Developer from Pakistan
+<p align="center">🚀 Software Developer | MERN Specialist</p>
 
-<h2 align="center">🤯 Ctrl + Z is my most trusted coding partner</h2>
+## 🙋‍♀️ About Me  
 
-## 🙋‍♀️ About Me
+I'm a passionate and self-driven **Full-Stack Developer** who enjoys turning ideas into engaging digital experiences.  
+Specializing in the **MERN stack**, I love building responsive, scalable, and user-friendly web applications while continuously exploring new tools and technologies.  
 
-I'm a self-driven and curious developer who loves turning ideas into interactive digital experiences.  
-I specialize in building responsive web apps using the **MERN stack**, and I'm always exploring new tools and techniques to improve my work.
-
-- 🔭 Currently working on JavaScript mini projects and MERN-based applications  
-- 🌱 Learning advanced DSA, system design, and backend optimization  
-- 💬 Ask me about React, Node.js, MongoDB, Express, or freelancing  
-- 👩‍💻 Open to exciting collaborations and freelance opportunities  
-- 📫 Reach me at: faiqanadeem6725@gmail.com
+- 🔭 Currently working on **JavaScript mini projects** and **MERN-based applications**  
+- 🌱 Learning **advanced DSA, system design, and backend optimization**  
+- 💬 Ask me about **React, Node.js, MongoDB, Express**, or my **freelancing journey**  
+- 👩‍💻 Open to **collaborations, freelance opportunities, and exciting projects**  
 
 ---
 
@@ -40,6 +37,25 @@ I specialize in building responsive web apps using the **MERN stack**, and I'm a
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:faiqanadeem6725@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/faiqa-nadeem27">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://github.com/FaiqaN27">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://x.com/faiqa_2710">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -59,11 +75,7 @@ I specialize in building responsive web apps using the **MERN stack**, and I'm a
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FaiqaN27&theme=gruvbox&no-bg=true&no-frame=true" alt="GitHub Trophy" />
-</p>
+<p align="center"><strong>✨ Fun Fact:</strong><i> "Ctrl + Z is my most trusted coding partner!"🤯</i></p>
 
 ---
 
