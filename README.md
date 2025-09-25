@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Faiqa Nadeem 👋 </h1>
 
-<p align="center">🚀 Software Developer | MERN Specialist</p>
+<h2 align="center">🚀 Software Developer | MERN Specialist</h2>
 
 ## 🙋‍♀️ About Me  
 
