@@ -9,7 +9,7 @@ Specializing in the **MERN stack**, I love building responsive, scalable, and us
 
 - 🔭 Currently working on **JavaScript mini projects** and **MERN-based applications**  
 - 🌱 Learning **advanced DSA, and backend optimization**  
-- 💬 Ask me about **React, Node.js, MongoDB, Express**, or my **freelancing journey**  
+- 💬 Ask me about **React, Node.js, MongoDB, & Express** 
 - 👩‍💻 Open to **collaborations, freelance opportunities, and exciting projects**  
 
 ---
