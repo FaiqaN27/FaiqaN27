@@ -7,7 +7,7 @@
 I'm a passionate and self-driven **Full-Stack Developer** who enjoys turning ideas into engaging digital experiences.  
 Specializing in the **MERN stack**, I love building responsive, scalable, and user-friendly web applications while continuously exploring new tools and technologies.  
 
-- 🔭 Currently working on **JavaScript mini projects** and **MERN-based applications**  
+- 🔭 Currently working on **MERN-based applications**  
 - 🌱 Learning **advanced DSA, and backend optimization**  
 - 💬 Ask me about **React, Node.js, MongoDB, & Express** 
 - 👩‍💻 Open to **collaborations, freelance opportunities, and exciting projects**  
