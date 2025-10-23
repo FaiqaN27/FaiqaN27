@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Faiqa Nadeem 👋 </h1>
 
-<h2 align="center">🚀 Full-Stack Developer (MERN) | Building Scalable Web Apps</h2>
+<h2 align="center">🚀 Full-Stack Developer (MERN) | Passionate about Building Scalable, User-Focused Web Applications</h2>
 
 ## 🙋‍♀️ About Me  
 
@@ -77,7 +77,7 @@ Specializing in the **MERN stack**, I love building responsive, scalable, and us
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaiqaN27&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-<p align="center"><strong>✨ Fun Fact:</strong><i> "Ctrl + Z is my most trusted coding partner!"🤯</i></p>
+<p align="center"><strong>✨ Fun Fact:</strong> <i>"Ctrl + Z is my most trusted coding partner!" 😄</i></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiqaN27/FaiqaN27/output/github-snake-dark.svg" />
