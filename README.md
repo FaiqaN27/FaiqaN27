@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Faiqa Nadeem 👋 </h1>
 
-<h2 align="center">🚀 Full-Stack Developer (MERN) | Building Scalable Web Applications</h2>
+<h2 align="center">🚀 MERN Full-Stack Developer | Building Scalable Web Apps</h2>
 
 ## 🙋‍♀️ About Me  
 
