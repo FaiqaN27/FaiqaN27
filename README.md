@@ -78,7 +78,7 @@ Specializing in the **MERN stack**, I love building responsive, scalable, and us
 </p>
 
 ## ✨ Fun Fact:
-<p><i>"Ctrl + Z is my most trusted coding partner!" 😄</i></p>
+<h3 align="center"><i>"Ctrl + Z is my most trusted coding partner!" 😄</i></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiqaN27/FaiqaN27/output/github-snake-dark.svg" />
