@@ -14,37 +14,29 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, bu
 
 ---
 
-## 💻 Tech Stack & Tools  
+## 💻 Tech Stack & Tools
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux Toolkit](https://img.shields.io/badge/redux--toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+<p align="center"> 
 
-### 🛠️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> 
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />  
+<img src="https://img.shields.io/badge/Cloudinary-3498DB?style=for-the-badge&logo=cloudinary&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />  
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
-
-### ☁️ Cloud & Deployment
-![Cloudinary](https://img.shields.io/badge/cloudinary-%233498DB.svg?style=for-the-badge&logo=cloudinary&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-
-### 🧪 API & Testing
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Insomnia](https://img.shields.io/badge/Insomnia-58B8D3?style=for-the-badge&logo=insomnia&logoColor=white) 
-
-### 🧰 Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+</p>
 
 ---
 
@@ -52,16 +44,16 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, bu
 
 <p align="center">
   <a href="mailto:faiqanadeem6725@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/faiqa-nadeem27">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/FaiqaN27">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://x.com/faiqa_2710">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
@@ -71,14 +63,6 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, bu
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaiqaN27&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaiqaN27&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiqaN27&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
