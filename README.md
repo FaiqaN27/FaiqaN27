@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Faiqa Nadeem 🇵🇰</h1>
 <h2 align="center">🚀 Software Engineer | MERN Specialist</h2>
 
----
-
 ## 🙋‍♀️ About Me  
 
 I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, building responsive, scalable, and user-friendly web applications. I continuously explore new tools, technologies, and best practices to improve my craft.  
