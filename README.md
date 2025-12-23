@@ -71,7 +71,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, bu
 
 ## ✨ Fun Fact
 
-<h3 align="center"><i>"Ctrl + Z is my most trusted coding partner!" 😄</i></h3>
+<h3 align="center"><i>"Clean code enthusiast with a messy browser tab count" 😎</i></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiqaN27/FaiqaN27/output/github-snake-dark.svg" />
