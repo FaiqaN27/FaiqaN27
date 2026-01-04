@@ -57,21 +57,9 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, bu
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaiqaN27&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaiqaN27&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ## ✨ Fun Fact
 
-<h3 align="center"><i>"Clean code enthusiast with a messy browser tab count" 😎</i></h3>
+<h3 align="center"><i>"I debug with console.log() and I'm not ashamed!" 😂</i></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiqaN27/FaiqaN27/output/github-snake-dark.svg" />
