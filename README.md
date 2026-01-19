@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Faiqa Nadeem 🇵🇰</h1>
-<h2 align="center">🚀 Software Engineer | MERN Specialist</h2>
+<h2 align="center">🚀 Full-Stack MERN Engineer | Performance-Focused Web Applications</h2>
 
 ## 🙋‍♀️ About Me  
 
@@ -34,6 +34,20 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, bu
 <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />  
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
+</p>
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaiqaN27&show_icons=true&theme=dracula&hide_border=true" height="170" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiqaN27&layout=compact&theme=dracula&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+📌 Consistently building projects and improving problem-solving skills through real-world development.
 </p>
 
 ---
